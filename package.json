@@ -1,0 +1,27 @@
+{
+  "author": "IBlazingX",
+  "license": "ISC",
+  "version": "2.1.2",
+  "name": "iblazingx-ms",
+  "description": "Un paquete para convertir formatos de tiempo a milisegundos o viseversa.",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ms",
+    "time",
+    "convert",
+    "converts",
+    "milisecond",
+    "miliseconds",
+    "time convert",
+    "time converts",
+    "español",
+    "spanish"
+  ],
+  "type": "module"
+}
